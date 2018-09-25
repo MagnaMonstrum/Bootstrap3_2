@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56c005aa-9bb6-4d08-a0b4-b8b4a4a685a9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03_05.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03_06.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03_07.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3_2.html" afterPath="$PROJECT_DIR$/03_02.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3_3.html" afterPath="$PROJECT_DIR$/03_03en03_04.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03_07.html" afterPath="$PROJECT_DIR$/03_07.html" />
     </list>
     <ignored path="BootstrapExercise.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,8 +61,8 @@
       <file leaf-file-name="03_07.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/03_07.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="320">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -101,6 +97,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -243,7 +242,7 @@
       <workItem from="1536911280550" duration="1195000" />
       <workItem from="1537252183878" duration="638000" />
       <workItem from="1537343505847" duration="1218000" />
-      <workItem from="1537858248525" duration="5104000" />
+      <workItem from="1537858248525" duration="6765000" />
     </task>
     <task id="LOCAL-00001" summary="Bootstrap">
       <created>1536828707997</created>
@@ -266,11 +265,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536831643442</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Bootstrap">
+      <created>1537865389829</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1537865389829</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26485000" />
+    <option name="totallyTimeSpent" value="28146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="961" height="1050" extended-state="0" />
@@ -535,8 +541,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03_07.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="320">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
           <folding />
         </state>
       </provider>
