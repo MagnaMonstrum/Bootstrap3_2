@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56c005aa-9bb6-4d08-a0b4-b8b4a4a685a9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03_16.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03_14.html" afterPath="$PROJECT_DIR$/03_14.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03_15.html" afterPath="$PROJECT_DIR$/03_15.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03_16.html" afterPath="$PROJECT_DIR$/03_16.html" />
     </list>
     <ignored path="BootstrapExercise.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,8 +91,8 @@
       <file leaf-file-name="03_16.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/03_16.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="594">
+              <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -132,6 +130,7 @@
         <option value="$PROJECT_DIR$/03_13.html" />
         <option value="$PROJECT_DIR$/03_14.html" />
         <option value="$PROJECT_DIR$/03_15.html" />
+        <option value="$PROJECT_DIR$/03_16.html" />
       </list>
     </option>
   </component>
@@ -147,7 +146,7 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="width" value="754" />
+    <option name="width" value="1251" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -178,14 +177,7 @@
       <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Bootstrap3_2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
     </panes>
   </component>
@@ -276,7 +268,7 @@
       <workItem from="1538118557973" duration="160000" />
       <workItem from="1538549594395" duration="2174000" />
       <workItem from="1539068409368" duration="6027000" />
-      <workItem from="1539247532052" duration="3325000" />
+      <workItem from="1539247532052" duration="3621000" />
     </task>
     <task id="LOCAL-00001" summary="Bootstrap">
       <created>1536828707997</created>
@@ -383,17 +375,24 @@
       <option name="project" value="LOCAL" />
       <updated>1539249276444</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Bootstrap">
+      <created>1539256825897</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1539256825897</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52245000" />
+    <option name="totallyTimeSpent" value="52541000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="754" height="1050" extended-state="0" />
+    <frame x="-8" y="0" width="1251" height="1050" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30163044" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30163044" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -742,8 +741,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03_16.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="594">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
           <folding />
         </state>
       </provider>
